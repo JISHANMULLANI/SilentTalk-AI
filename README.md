@@ -15,8 +15,10 @@ SignSpeak AI is a Python-based project designed to recognize hand signs from a w
 - Text-to-speech support using `pyttsx3`
 - Streamlit-based interface (if enabled in the current project version)
 
-## For better understanding use this imge
-ASL Alphabet Hand Gesture Chart.png
+## ASL Alphabet Reference
+
+For better understanding, refer to the [ASL Alphabet Hand Gesture Chart](ASL%20Alphabet%20Hand%20Gesture%20Chart.png).
+
 
 ## Technology Stack
 
